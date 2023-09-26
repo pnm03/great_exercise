@@ -1,5 +1,6 @@
 Doraemon;16;8
 Saori Hara;18;8.5
-Anh Vu;29;9.5
 Duong Qua;45;7.5
-Obama;59;9.5
+Vu Lan Linh;16;8
+Join Karma;18;8.5
+Alex Bunma;22;9.5
